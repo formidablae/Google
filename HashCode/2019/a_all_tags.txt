@@ -1,0 +1,6 @@
+cat 0 3 
+selfie 1 2 
+garden 2 3 
+beach 0 
+sun 0 
+smile 1 
